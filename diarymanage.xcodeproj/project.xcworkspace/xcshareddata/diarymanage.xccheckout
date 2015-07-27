@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C3FCA33C-1C8E-4D12-9C5A-4BA8AE294B91</string>
+	<key>IDESourceControlProjectName</key>
+	<string>diarymanage</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0CB5586B16526ED5BB85389D4622CEBF41E6AE55</key>
+		<string>https://github.com/AlanMathisonTuring/diarymanage.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>diarymanage.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0CB5586B16526ED5BB85389D4622CEBF41E6AE55</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AlanMathisonTuring/diarymanage.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0CB5586B16526ED5BB85389D4622CEBF41E6AE55</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0CB5586B16526ED5BB85389D4622CEBF41E6AE55</string>
+			<key>IDESourceControlWCCName</key>
+			<string>diarymanage</string>
+		</dict>
+	</array>
+</dict>
+</plist>
